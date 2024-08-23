@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.desc{
+    background-color: #D9EEE1;
+    border-left: none;
+    padding: 32px;
+    margin: 24px;
+    margin-left: -32px;
+    margin-right: -32px;
+}
+a{
+    color: #FFFFFF;
+    background-color: #4CAF50;
+    margin-bottom: 16px !important;
+    align-items: center;
+}
